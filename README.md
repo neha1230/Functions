@@ -1,0 +1,2 @@
+# Functions
+A function is a block of code which only runs when it is called.  You can pass data, known as parameters, into a function.  A function can return data as a result.  In Python a function is defined using the def keyword. Information can be passed to functions as parameter.  Parameters are specified after the function name, inside the parentheses. You can add as many parameters as you want, just separate them with a comma.
